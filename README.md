@@ -1,4 +1,4 @@
-[![Header](https://github.com/AM1G0S/AM1G0S/blob/main/assets/download.gif)]
+![Header](https://github.com/AM1G0S/AM1G0S/blob/main/assets/download.gif)
 
 
 <h1 align="center" style="color: #ffd163">Hi there, I'm <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> 
