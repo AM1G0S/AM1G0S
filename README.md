@@ -1,7 +1,8 @@
 [![Header](https://github.com/AM1G0S/AM1G0S/blob/main/assets/download.gif)](https://vk.com/amigo_0)
 
-[![Vader](https://github.com/AM1G0S/AM1G0S/blob/main/assets/4uq.gif)](https://t.me/zyazikov) 
-## I'm a beginner Frontend developer
+
+<h1 align="center">Hi there, I'm <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> 
+<p>I'm a beginner Frontend developer</p><img src="assets/4uq (1).gif">
 
 
 ## Languages and Tools
