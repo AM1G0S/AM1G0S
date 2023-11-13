@@ -14,7 +14,7 @@
 
 <h2 color="#ffd163">📡 Let's Connect and have a Chat!:</h2>
 
-<p id="badges" >
+<p align="left" >
 <a href="https://vk.com/amigo_0" target="_blank" rel="noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="suleyman zyazikov"></a>
 
