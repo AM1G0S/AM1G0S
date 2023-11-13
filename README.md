@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20there!&amp;height=100&amp;section=header)
 
 
-<h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BlinkMacSystemFont&pause=1000&color=1F6FEB&random=false&width=435&lines=Front-end+developer)](https://git.io/typing-svg)</h2> 
+<h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=BlinkMacSystemFont&pause=1000&color=1F6FEB&random=false&width=435&lines=Front-end+developer" alt="Typing SVG" /></a></h2> 
 
 <img border-radius="5px" src="https://komarev.com/ghpvc/?username=AM1G0S&style=flat-square&color=blue" alt=""/>
 
