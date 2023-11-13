@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20there!&amp;height=100&amp;section=header)
 
 
-<h2 align="center" color="#ffd163">My name is Suleyman and I am a <img src="https://readme-typing-svg.herokuapp.com?font=BlinkMacSystemFont&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=435&lines=Front-end+developer" alt="Typing SVG" /></h2> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&random=false&width=600&lines=My+name+is+Suleyman+and+I+am+a+Front-end+developer" alt="Typing SVG" />
   
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
