@@ -11,9 +11,9 @@
 </ul>
 
 <h2 color="#ffd163">📡 Let's Connect and have a Chat!:</h2>
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/amigo_0)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor=4F7DB3)](https://t.me/zyazikov)
-[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=4F7DB3)](https://www.instagram.com/suleyman.zyazikov)
+[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/amigo_0)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor=4F7DB3)](https://t.me/zyazikov)
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=4F7DB3)](https://www.instagram.com/suleyman.zyazikov)
 [![KWORK](https://img.shields.io/badge/-kwork-090909?style=for-the-badge&logo=kwork&logoColor=4F7DB3)](https://kwork.ru/user/am1g0)
 
 <h2 align="center" color="#ffd163">Languages and Tools</h2>
