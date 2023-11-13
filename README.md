@@ -3,6 +3,9 @@
 
 <h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a Front-end developer.</h2>
 
+<ul>
+  <li>🔥 I derive immense pleasure from crafting code</li>
+</ul>
 
 <h2 align="center" color="#ffd163">Languages and Tools</h2>
 
