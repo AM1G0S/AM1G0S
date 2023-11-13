@@ -5,8 +5,6 @@
   
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AM1G0S&label=Profile%20views&color=0e75b6&style=flat" alt="AM1G0S | Views" /> </p>
-
 - 🔥 I derive immense pleasure from crafting code
 
 - 📚 The world of programming literature is my cherished domain
@@ -96,7 +94,8 @@
 After that I got acquainted with the development of Front-END and since then I have aspired to become a professional programmer. I have a great interest in IT, I am always ready to learn innovations in the genre
 I like what I do, and I always try to give 100%. My strengths are my interpersonal skills, attention to detail, ability to work well with others or individually, and ability to quickly and accurately choose new skills, solutions.</p>
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AM1G0S&label=Profile%20views&color=0e75b6&style=flat" alt="AM1G0S | Views" /> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
