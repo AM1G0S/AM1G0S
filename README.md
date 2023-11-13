@@ -1,7 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20there!&amp;height=100&amp;section=header)
 
-
-<h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a <img display="inline" src="https://readme-typing-svg.herokuapp.com?font=BlinkMacSystemFont&pause=1000&color=1F6FEB&random=false&width=435&lines=Front-end+developer" alt="Typing SVG" /></h2> 
+<div>
+  <h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a <img display="inline" src="https://readme-typing-svg.herokuapp.com?font=BlinkMacSystemFont&pause=1000&color=1F6FEB&random=false&width=435&lines=Front-end+developer" alt="Typing SVG" /></h2> 
+</div>
 
 <img border-radius="5px" src="https://komarev.com/ghpvc/?username=AM1G0S&style=flat-square&color=blue" alt=""/>
 
