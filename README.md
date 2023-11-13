@@ -81,15 +81,15 @@
 
 <details>
     <summary><h3>📊 Stats</h3></summary>
-    <img align="center" width="336" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,css,scss&theme=buefy" alt="« bek77g | Languages »" style="padding-right: 0"/>
-    <img align="center" width="490" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g&count_private=true&include_all_commits=true&hide=issues&theme=buefy" alt="« bek77g | Stats »" />
+    <img align="center" width="336" src="https://github-readme-stats-AM1G0S.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,css,scss&theme=buefy" alt="« bek77g | Languages »" style="padding-right: 0"/>
+    <img align="center" width="490" src="https://github-readme-stats-AM1G0S.vercel.app/api?show_bg=1&username=bek77g&count_private=true&include_all_commits=true&hide=issues&theme=buefy" alt="« bek77g | Stats »" />
     <!-- <img align="left" width="37%" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact" alt="bek77g | Languages" />
     <img align="center" width="47%" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g" alt="bek77g | Stats" /> -->
     <!-- <img src="https://github.com/bek77g/bek77g/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributors" width="100%"/> -->
 </details>
 
 <details>
- <summary><h3>👨‍💻 Beknur's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Suleyman's Coding Journey</h3></summary>
    <p>From childhood I started working with operating systems, kernels (Linux/Unix/Windows/Mac OS). As is clear, there is experience with many OS, PC service.
 After that I got acquainted with the development of Front-END and since then I have aspired to become a professional programmer. I have a great interest in IT, I am always ready to learn innovations in the genre
 I like what I do, and I always try to give 100%. My strengths are my interpersonal skills, attention to detail, ability to work well with others or individually, and ability to quickly and accurately choose new skills, solutions.</p>
