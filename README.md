@@ -5,12 +5,16 @@
   
 <img border-radius="5px" src="https://komarev.com/ghpvc/?username=AM1G0S&style=flat-square&color=blue" alt=""/>
 
-<ul>
-  <li>🔥 I derive immense pleasure from crafting code</li>  <br/>
-   <li>📚 The world of programming literature is my cherished domain</li><br/>
-   <li>🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories</li><br/>
-   <li>🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections</li><br/>
-</ul>
+<img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AM1G0S&label=Profile%20views&color=0e75b6&style=flat" alt="AM1G0S | Views" /> </p>
+
+- 🔥 I derive immense pleasure from crafting code
+
+- 📚 The world of programming literature is my cherished domain
+
+- 🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories
+- 🌍 Connecting with diverse minds is like e
 
 <h2 color="#ffd163">📡 Let's Connect and have a Chat!:</h2>
 
