@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20there!&amp;height=100&amp;section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=blue&amp;text=Hello%20there!&amp;height=100&amp;section=header)
 
 
 <h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a Front-end developer.</h2>
