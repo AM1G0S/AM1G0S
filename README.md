@@ -3,8 +3,6 @@
 
 <h2 align="center" color="#ffd163">My name is Suleyman and I am a <img src="https://readme-typing-svg.herokuapp.com?font=BlinkMacSystemFont&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=435&lines=Front-end+developer" alt="Typing SVG" /></h2> 
   
-<img border-radius="5px" src="https://komarev.com/ghpvc/?username=AM1G0S&style=flat-square&color=blue" alt=""/>
-
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AM1G0S&label=Profile%20views&color=0e75b6&style=flat" alt="AM1G0S | Views" /> </p>
