@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: AM1G0S/metrics@latest
+      - uses: AM1G0S/AM1G0S@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
