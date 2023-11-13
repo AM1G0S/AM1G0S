@@ -33,16 +33,8 @@
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=4F7DB3)](https://www.instagram.com/suleyman.zyazikov)
 [![KWORK](https://img.shields.io/badge/-kwork-090909?style=for-the-badge&logo=kwork&logoColor=4F7DB3)](https://kwork.ru/user/am1g0)
 
-<h2 align="center" color="#ffd163">Languages and Tools</h2>
+<h2 align="center" color="#ffd163">🧰 Some Tools I Have Used and Learned:</h2>
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=ffd163)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=ffd163)
-![JavaScript](https://img.shields.io/badge/-Javs_Script-090909?style=for-the-badge&logo=javascript&logoColor=ffd163)
- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=ffd163)
-![HTML](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp&logoColor=ffd163)
-![HTML](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=sass&logoColor=ffd163)
-![HTML](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=bem&logoColor=ffd163)
   
 <img src="assets/vader.gif" align="center">
