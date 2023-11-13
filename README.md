@@ -1,4 +1,4 @@
-![Header](https://camo.githubusercontent.com/da79d43c0829b9b5471241d3044a575dc3322a13f0c40ec1e1b7b1b4a3efc099/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f253230746865726521266865696768743d3130302673656374696f6e3d686561646572)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20there!&amp;height=100&amp;section=header)
 
 
 <h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a Front-end developer.</h2>
