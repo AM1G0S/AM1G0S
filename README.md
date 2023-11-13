@@ -4,10 +4,10 @@
 <h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a Front-end developer.</h2>
 
 <ul>
-  <li>🔥 I derive immense pleasure from crafting code</li>
-   <li>📚 The world of programming literature is my cherished domain</li>
-   <li>🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories</li>
-   <li>🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections</li>
+  <li>🔥 I derive immense pleasure from crafting code</li>  <br/>
+   <li>📚 The world of programming literature is my cherished domain</li><br/>
+   <li>🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories</li><br/>
+   <li>🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections</li><br/>
 </ul>
 
 <h2 align="center" color="#ffd163">Languages and Tools</h2>
