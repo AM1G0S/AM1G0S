@@ -3,7 +3,7 @@
 
 <h2 align="center" color="#ffd163">My name is <a href="https://t.me/zyazikov" target="_blank">Suleyman</a> and I am a Front-end developer.</h2>
 
-<img src="https://komarev.com/ghpvc/?username=AM1G0S&style=flat-square&color=blue" alt=""/>
+<img border-radius="5px" src="https://komarev.com/ghpvc/?username=AM1G0S&style=flat-square&color=blue" alt=""/>
 
 <ul>
   <li>🔥 I derive immense pleasure from crafting code</li>  <br/>
