@@ -11,10 +11,13 @@
 </ul>
 
 <h2 color="#ffd163">📡 Let's Connect and have a Chat!:</h2>
-<a href="https://linkedin.com/in/beknur-zheenkulov" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9d8fc174cc2998661b92484197c3ee2d5d249f252d85bc10066ae8f663d41713/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343932332e706e67" alt="beknur-zheenkulov | LinkedIn" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" style="max-width: 100%;"></a>
 
-[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/amigo_0)
-[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor=4F7DB3)](https://t.me/zyazikov)
+<a href="https://vk.com/amigo_0" rel="nofollow"><img align="center" src="https://cloud.mail.ru/public/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" alt="beknur-zheenkulov | LinkedIn" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" style="max-width: 100%;"></a>
+
+<a href="https://t.me/zyazikov" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e141f18b4b199b7809f61735ffded0e0317ca4eaf100adbbcc0491940ca0db40/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343934312e706e67" alt="XeLLiAn0 | Telegram" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" style="max-width: 100%;"></a>
+
+<a href="https://linkedin.com/in/am1g0" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9d8fc174cc2998661b92484197c3ee2d5d249f252d85bc10066ae8f663d41713/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343932332e706e67" alt="beknur-zheenkulov | LinkedIn" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" style="max-width: 100%;"></a>
+
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=4F7DB3)](https://www.instagram.com/suleyman.zyazikov)
 [![KWORK](https://img.shields.io/badge/-kwork-090909?style=for-the-badge&logo=kwork&logoColor=4F7DB3)](https://kwork.ru/user/am1g0)
 
