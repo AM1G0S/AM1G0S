@@ -15,7 +15,7 @@
 <h2 color="#ffd163">📡 Let's Connect and have a Chat!:</h2>
 
 <p align="left" >
-<a href="https://vk.com/amigo_0" target="_blank" rel="noreferrer">
+<a href="https://vk.com/zyazik0v" target="_blank" rel="noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="suleyman zyazikov"></a>
 <a href="https://t.me/zyazikov" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e141f18b4b199b7809f61735ffded0e0317ca4eaf100adbbcc0491940ca0db40/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343934312e706e67" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"></a>
   <a href="https://www.instagram.com/suleyman.zyazikov" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="30" width="30" data-canonical-src="https://cdn-icons-png.flaticon.com/512/733/733558.png"></a>
