@@ -80,13 +80,11 @@
   </a>
 </p>
 
-<details>
     <summary><h3>📊 Stats</h3></summary>
 
   <img align="center" width="490" src="https://github-readme-stats.vercel.app/api?show_bg=1&username=AM1G0S&count_private=true&include_all_commits=true&hide=issues&theme=buefy" alt="« AM1G0S  | Stats »" />
    
 <img src="assets/vader.gif" align="center">
-</details>
 
 <details>
  <summary><h3>👨‍💻 Suleyman's Coding Journey</h3></summary>
